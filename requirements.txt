@@ -1,0 +1,6 @@
+Program tested on python 3.12.7 with:
+
+pygame 2.6.1
+pygame-widgets 1.0.0
+numpy 2.3.1
+
